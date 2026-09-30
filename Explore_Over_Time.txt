@@ -1,0 +1,11 @@
+What I Would Explore With More Time
+
+* Conduct usability testing with real users.
+* Validate whether event severity classifications are understandable.
+* Test whether location/type grouping matches user expectations.
+* Explore personalized anomaly detection.
+* Investigate the ideal notification strategy.
+* Design for multiple simultaneous incidents.
+* Test the experience with large event volumes.
+* Connect the prototype to a real IoT/event backend.
+* Measure time-to-understand and time-to-action.
