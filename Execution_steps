@@ -1,0 +1,5 @@
+git clone <<<repo-url>>>
+cd Smart-home-mobile-app
+cd home-monitor
+npm install
+npm run dev  
