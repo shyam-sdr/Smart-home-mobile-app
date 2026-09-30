@@ -1,0 +1,28 @@
+# Home Monitor - requirements
+# NOTE: this is a Node.js project. `npm install` reads package.json, not this file.
+# This file documents the same tools and versions for reference.
+
+# ---- Runtime / tooling ----
+node        >= 18.18   (20 LTS or newer recommended)
+npm         >= 9
+
+# ---- Build tool ----
+vite                    ^5.4.0
+@vitejs/plugin-react    ^4.3.1
+
+# ---- UI framework ----
+react                   ^18.3.1
+react-dom               ^18.3.1
+
+# ---- Styling ----
+bootstrap               ^5.3.3
+bootstrap-icons         ^1.11.3
+
+# ---- Fonts (loaded from Google Fonts at runtime, no install) ----
+# Plus Jakarta Sans
+
+# ---- Commands ----
+# npm install
+# npm run dev        -> http://localhost:5173
+# npm run build      -> outputs to dist/
+# npm run preview    -> serve the production build
