@@ -1,0 +1,36 @@
+Key Design Decisions
+
+1. Shifted from raw data to actionable insights
+
+The experience is designed around:
+
+What happened?
+      ↓
+What matters?
+      ↓
+Do I need to act?
+
+2. Prioritized important information
+
+The Home screen focuses on information that helps users make a quick decision.
+
+3. Grouped devices by location and type
+
+Users can browse devices according to their mental model.
+
+4. Added event interpretation
+
+Events are explained in human-readable language rather than presenting only raw logs.
+
+5. Added event prioritization
+
+Normal activity is visually separated from events that may require attention.
+
+6. Kept technical information available
+
+Technical telemetry was moved to deeper screens rather than removed from the product.
+
+7. Added contextual actions
+
+Actions are presented based on the event rather than showing generic controls everywhere.
+
