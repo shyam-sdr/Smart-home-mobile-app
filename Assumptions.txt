@@ -1,5 +1,5 @@
 
-# Assumptions
+Assumptions
 
 The assignment does not specify the complete device ecosystem, so the prototype makes the following assumptions:
 
