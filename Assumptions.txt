@@ -1,1 +1,14 @@
 
+# Assumptions
+
+The assignment does not specify the complete device ecosystem, so the prototype makes the following assumptions:
+
+* A home can contain multiple smart devices and sensors.
+* Devices are associated with specific locations.
+* Devices can be grouped by location and device type.
+* The system continuously records device activity and status.
+* Events have different levels of importance.
+* Some device issues can resolve automatically.
+* Users may return to the app after being away for several hours.
+* Users have permission to view and control devices in their home.
+* Technical telemetry is available but is secondary to actionable information.
